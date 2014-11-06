@@ -1,4 +1,4 @@
-billcalcute
+表燈計算機
 ===========
 
-Bill Calculator for Taiwan Power Company
+試算台電「時間電價」表燈的電費。
